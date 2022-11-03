@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi!
+
+I'm a Brazilian tech person that can also be called developer sometimes. I've choiced to do this README in english because I intend to make it understandable for the maximum possible number of people.
+
+I am also AWS Certified:
+
+[AWS Cloud Practitioner](https://www.credly.com/badges/2351bdbe-b8bd-408f-a2f3-45f878267b23/public_url)
+
+![AWS Cloud Practitioner Logo](./cplogo.png)
 
 <!--
 **newlomar/newlomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
