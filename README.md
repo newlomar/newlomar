@@ -1,6 +1,6 @@
 # Hi!
 
-I'm a Brazilian tech person that can also be called developer sometimes. I've choiced to do this README in english because I intend to make it understandable for the maximum possible number of people.
+I'm a Brazilian tech person that can also be called developer sometimes. I've choiced to do this README in english because I decided to make it understandable for the maximum possible number of people.
 
 I am also AWS Certified:
 
