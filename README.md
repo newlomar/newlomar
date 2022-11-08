@@ -12,7 +12,7 @@ I try to code everyday, because I like it and it helps me to think and resolve p
 
 I am also AWS Certified:
 
-**AWS Cloud Practitioner**
+![AWS Cloud Practitioner](https://www.credly.com/badges/2351bdbe-b8bd-408f-a2f3-45f878267b23/public_url)
 
 <a href="https://www.credly.com/badges/2351bdbe-b8bd-408f-a2f3-45f878267b23/public_url" target="_blank"> <img src="cplogo.png" alt="AWS Cloud Practitioner Logo" width="200"/></a>
 
