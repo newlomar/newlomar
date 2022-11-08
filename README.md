@@ -16,6 +16,7 @@ I am also AWS Certified:
 
 
 <img src="cplogo.png" alt="AWS Cloud Practitioner Logo" width="200"/>
+
 ![AWS Cloud Practitioner Logo](./cplogo.png)
 
 <!--
