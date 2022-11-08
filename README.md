@@ -17,8 +17,6 @@ I am also AWS Certified:
 
 <img src="cplogo.png" alt="AWS Cloud Practitioner Logo" width="200"/>
 
-![AWS Cloud Practitioner Logo](./cplogo.png)
-
 <!--
 **newlomar/newlomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
