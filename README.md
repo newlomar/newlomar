@@ -6,16 +6,15 @@ My life goal is to help people as much as I can. Right now I'm helping myself to
 
 Creating solutions and solving problems is what I like to do.
 
-I'm currently working as Configuration and Change Management Analyst | DevOps at <a href="https://somos.us" target="_blank">Somos</a>. My job is basically resolving any system (and routine related system) problems of the company. Security has been one of the major (if not *THE* major) responsability of mine in the last few months, so I'm also always trying to understand a bit more about this subject every day. I really apreciate to be able to garantee that every person in contact with something that I work with can be relaxed and sure that is secured, as maximum as possible.
+I'm currently working as Configuration and Change Management Analyst | DevOps at <a href="https://somos.us" target="_blank">Somos</a>. My job is basically resolving any system (and routine related system) problems of the company. Security has been one of the major (if not **THE** major) responsability of mine in the last few months, so I'm also always trying to understand a bit more about this subject every day. I really apreciate to be able to garantee that every person in contact with something that I work with can be relaxed and sure that is secured, as maximum as possible.
 
 I try to code everyday, because I like it and it helps me to think and resolve problems (not only code related) when they appears (every day).
 
 I am also AWS Certified:
 
-[AWS Cloud Practitioner](https://www.credly.com/badges/2351bdbe-b8bd-408f-a2f3-45f878267b23/public_url)
+**AWS Cloud Practitioner**
 
-
-<img src="cplogo.png" alt="AWS Cloud Practitioner Logo" width="200"/>
+<a href="https://www.credly.com/badges/2351bdbe-b8bd-408f-a2f3-45f878267b23/public_url" target="_blank"> <img src="cplogo.png" alt="AWS Cloud Practitioner Logo" width="200"/></a>
 
 <!--
 **newlomar/newlomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
