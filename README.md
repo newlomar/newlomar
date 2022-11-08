@@ -15,7 +15,7 @@ I am also AWS Certified:
 [AWS Cloud Practitioner](https://www.credly.com/badges/2351bdbe-b8bd-408f-a2f3-45f878267b23/public_url)
 
 
-<img src="cplogo.png" alt="AWS Cloud Practitioner Logo" width="200"/> <img src="cplogo.png" alt="AWS Cloud Practitioner Logo" width="200"/>
+<img src="cplogo.png" alt="AWS Cloud Practitioner Logo" width="200"/>
 
 <!--
 **newlomar/newlomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
