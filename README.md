@@ -1,6 +1,6 @@
 # Hi!
 
-I'm a Brazilian tech person that can also be called developer sometimes. I've choiced to do this README in english because I decided to make it understandable for the maximum possible number of people.
+I'm a Brazilian tech person that can also be called developer sometimes. I've choiced to do this README in english because I wanted it to be understandable for the maximum possible number of people.
 
 My life goal is to help people as much as I can. Right now I'm helping myself to be able to help more people in the future, but I do some social activities to help the ones who most need.
 
