@@ -8,7 +8,7 @@ If I can help you with something, just let me know. My twitter is at this profil
 
 Creating solutions and solving problems is what I like to do.
 
-I'm currently working as Configuration and Change Management Analyst | DevOps at <a href="https://somos.us" target="_blank">Somos</a>. My job is basically resolving any system (and routine related system) problems of the company. Security has been one of the major (if not **THE** major) responsability of mine in the last few months, so I'm also always trying to understand a bit more about this subject every day. I really apreciate to be able to garantee that every person in contact with something that I work with can be relaxed and sure that is secured, as maximum as possible.
+I'm currently working as Configuration and Change Management Analyst | DevOps at <a href="https://somos.us" target="_blank">Somos</a>. My job is basically resolving any system (and routine related system) problems of the company.
 
 I try to code everyday, because I like it and it helps me to think and resolve problems (not only code related) when they appears (every day).
 
