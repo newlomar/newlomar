@@ -8,7 +8,7 @@ I'm currently working as Configuration and Change Management Analyst | DevOps at
 
 I try to code everyday, because I like it and it helps me to think and resolve problems, that are not always only code related, when they appears (every day).
 
-I am also AWS Certified:
+I am AWS Certified:
 
 [AWS Cloud Practitioner](https://www.credly.com/badges/2351bdbe-b8bd-408f-a2f3-45f878267b23/public_url)
 
